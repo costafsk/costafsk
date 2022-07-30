@@ -1,15 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=costafsk)
 
-## Opa ✌🏽, me chamo Diego Costa.
+## Hello ✌🏽, I'm Diego Costa.
  
-#### 👨🏽‍💻 Programador.
+#### 👨🏽‍💻 Programmer.
 
-Atualmente, integrante do time front-end da @Solfácil 🌞🚀.
+Currently collaborating as a Front-end Software Engineer at @Dietbox 🥑🚀
 
-Estudante de Análise e Desenvolvimento de Sistemas, com experiencia na criação, integração, documentação e elaboração de aplicações web.
+Computer Science student, with experience in creating, integrating, documenting and developing web applications.
 
-Apaixonado por técnologia e fã de uma boa maionese 🍔.
-
-#
+Passionate about technology, people and fan of a good mayonnaise🍔.
 
 [![Linkedin Badge](https://img.shields.io/badge/-costafsk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/costafsk/)](https://www.linkedin.com/in/costafsk/) 
