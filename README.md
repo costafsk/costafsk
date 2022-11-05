@@ -4,7 +4,7 @@
  
 #### 👨🏽‍💻 Programmer.
 
-Currently collaborating as a Front-end Software Engineer at @Dietbox 🥑🚀
+Currently collaborating as a Front-end Software Engineer at @Lyncas.net 🚀
 
 Computer Science student, with experience in creating, integrating, documenting and developing web applications.
 
