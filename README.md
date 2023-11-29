@@ -4,9 +4,9 @@
  
 #### 👨🏽‍💻 Programmer.
 
-Currently collaborating as a Front-end Software Engineer at @Lyncas.net 🚀
+Currently collaborating as a Sênior Front-end Developer at Saúde Trevo 🚀
 
-Computer Science student, with experience in creating, integrating, documenting and developing web applications.
+With experience in creating, integrating, documenting and developing web applications.
 
 Passionate about technology, people and fan of a good mayonnaise🍔.
 
