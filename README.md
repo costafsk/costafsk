@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://costamachado.com/logo.svg" width="72" alt="CostaMachado logo">
+<img src="https://costamachado.com/logo/logo-icon.png" width="72" alt="CostaMachado logo">
 
 # Diego Costa
 
